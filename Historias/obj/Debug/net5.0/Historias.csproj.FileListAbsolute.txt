@@ -1,0 +1,15 @@
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.csproj.AssemblyReference.cache
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.AssemblyInfoInputs.cache
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.AssemblyInfo.cs
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.csproj.CoreCompileInputs.cache
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\bin\Debug\net5.0\Historias.deps.json
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\bin\Debug\net5.0\Historias.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\bin\Debug\net5.0\ref\Historias.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\bin\Debug\net5.0\Historias.pdb
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\bin\Debug\net5.0\Dominio.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\bin\Debug\net5.0\Dominio.pdb
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.csproj.CopyComplete
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\ref\Historias.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Historias\obj\Debug\net5.0\Historias.pdb

@@ -1,0 +1,12 @@
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Workspace\ProjetoImobiliaria\ProjetoImobiliaria\Dominio\obj\Debug\net5.0\Dominio.pdb
